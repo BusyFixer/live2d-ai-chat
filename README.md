@@ -15,7 +15,7 @@ Ollama 本地 AI 服务
 CubismNativeSamples-develop由于文件大小问题需要去
 ``
 https://github.com/Live2D/CubismNativeSamples
-``下载zip然后解压。\
+``下载zip然后解压。你需要自己创建2d文件夹并将解压后的文件放入2d中\
 确保有足够的 GPU 资源来运行 Live2D 渲染\
 首次运行需要下载 Ollama 模型，请保持网络连接\
 建议在性能较好的电脑上运行以获得最佳体验
